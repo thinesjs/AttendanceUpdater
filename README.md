@@ -3,6 +3,8 @@
 
 A automation script to automatically scan and update attendance. The program is purely for educational purposes and real usage is not recommended.
 
+UPDATE:: Great times, great times, great times! A love and hate relationship with the pandemic, the word 'front-liners' were being used almost everyday so was students with the word 'attendance' through their speakers. We are now hearing the word through our ears now, times have changed! Uh, although we hear it occasionally now and then still through our speakers... meh!
+
 
 ## Prerequisites
 
